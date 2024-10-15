@@ -1,5 +1,5 @@
 import asyncio
-import os, sys
+import os
 from dotenv import load_dotenv
 
 from weather_api import WeatherAPI
